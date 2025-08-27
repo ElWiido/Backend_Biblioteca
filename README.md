@@ -31,8 +31,6 @@ npm install -g nodemon
 nodemon app
 ```
 
-## IMPORTANT (.env)
-
 ## ⚙️ IMPORTANT Environment Variables (.env)
 
 Create a `.env` file in the root of the project with the following structure:
