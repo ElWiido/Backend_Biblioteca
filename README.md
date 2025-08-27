@@ -1,5 +1,8 @@
-Backend de una biblioteca usando SQLServer como base de datos
+## 🚀 Tecnologías del Proyecto
 
-NODE VERSION: 22.18.0
-npm version: 10.5.0
-FrameWork: Express.Js
+| Tecnología   | Versión   |
+|--------------|-----------|
+| **Node.js**  | 22.18.0   |
+| **npm**      | 10.5.0    |
+| **Express.js** | 5.1.0   |
+| **Base de Datos** | SQL Server |
