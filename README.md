@@ -31,3 +31,16 @@ npm install -g nodemon
 nodemon app
 ```
 
+## IMPORTANT Environment Variables (.env)
+
+Create a `.env` file in the root of the project with the following structure:
+
+PORT = 3000
+USER = database_user
+PASSWORD = database_password
+DB_SERVER=localhost
+DB_DATABASE= database_name
+DB_DIALECT=mssql
+DB_PORT= database_port
+EMAIL= nodemailer
+EMAIL_PASSWORD= nodemailer
